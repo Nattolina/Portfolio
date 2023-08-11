@@ -1,4 +1,4 @@
-[Debt.ipynb](https://github.com/Nattolina/Portfolio/blob/main/Исследование%20надёжности%20заёмщиков/Debt.ipynb)
+[Тестовое на продуктового аналитика.ipynb]([https://github.com/Nattolina/Portfolio/blob/main/Тестовое%20на%20продуктового%20аналитика/Тестовое%20на%20продуктового%20аналитика.ipynb])
 
 ## Часть 1
 
